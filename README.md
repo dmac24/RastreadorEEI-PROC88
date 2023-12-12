@@ -1,2 +1,2 @@
-# RatreadorEEI-PROC87
-Plantilla del alumno Rastreador de la EEI Clase 87
+# RatreadorEEI-PROC88
+Plantilla del alumno Rastreador de la EEI Clase 88
